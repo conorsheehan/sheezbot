@@ -1,0 +1,22 @@
+{
+  "name": "sheezbot",
+  "version": "1.0.0",
+  "description": "Experimental bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conorsheehan/sheezbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conorsheehan/sheezbot/issues"
+  },
+  "homepage": "https://github.com/conorsheehan/sheezbot#readme",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
